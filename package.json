@@ -1,15 +1,15 @@
 {
-  "name": "dogjun-utils",
+  "name": "dogjunutils",
   "version": "0.0.1",
   "description": "前端常用代码库",
-  "main": "min/dogjun-utils.min.js",
+  "main": "min/dogjunutils.min.js",
   "scripts": {
     "build": "node script/build.js",
     "test": "karma start script/karma.conf.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DogJun/DogJunUtils.git"
+    "url": "git+https://github.com/DogJun/dogjunutils.git"
   },
   "keywords": [
     "util",
@@ -19,9 +19,9 @@
   "author": "DogJun",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/DogJun/DogJunUtils/issues"
+    "url": "https://github.com/DogJun/dogjunutils/issues"
   },
-  "homepage": "https://github.com/DogJun/DogJunUtils#readme",
+  "homepage": "https://github.com/DogJun/dogjunutils#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",

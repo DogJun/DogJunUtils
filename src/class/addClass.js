@@ -5,7 +5,7 @@
  */
 let hasClass = require('./hasClass')
 
-function addClass (els, cls) {
+function addClass (ele, cls) {
   if (!hasClass(ele, cls)) {
     ele.className += ' ' + cls
   }
